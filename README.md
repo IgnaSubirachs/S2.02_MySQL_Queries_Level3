@@ -41,7 +41,7 @@ To run and test this project locally, make sure you have the following installed
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/sql-query-project.git
+git clone (https://github.com/IgnaSubirachs/S2.02_MySQL_Queries_Level3.git)
 cd sql-query-project
 ```
 
