@@ -62,7 +62,7 @@ docker exec -i <mysql-container-name> mysql -u root -p < schema_universidad.sql
 
 2. Connect to your MySQL server and make sure both databases (`tienda`, `universidad`) are visible.
 
-3. Open and run the file `final_66_queries.sql`.
+3. Open and run the file `SQL_Explanation_Level3.pdf`.
 
 4. Each query is commented in English and can be executed independently.
 
@@ -70,10 +70,7 @@ docker exec -i <mysql-container-name> mysql -u root -p < schema_universidad.sql
 
 📁 Files included:
 
-- `final_66_queries.sql` – Contains all 66 SQL queries with English descriptions.
-- `SQL_Explanation_Level3.pdf` – Documentation explaining SQL techniques used.
-- `schema_tienda.sql` – Schema and data for the 'tienda' database.
-- `schema_universidad.sql` – Schema and data for the 'universidad' database.
+- `SQL_Explanation_Level3.pdf` – Contains all 65 SQL queries with English descriptions.
 
 ---
 
